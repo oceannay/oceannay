@@ -7,7 +7,7 @@ Early‑career data and finance professional pivoting into investment banking, w
 - 🔭 Currently working on: a Rotten Tomatoes Analysis Project with Python
 - 📊 Interests: business and consumer insights, investment banking, markets, consumer products & services, workplace tech, psychology & neuroscience
 - 🧮 Skills: Excel modelling, Power BI / Tableau, basic SQL / Python (pandas), financial statement analysis
-- 🏦 Experience: digital analytics at NBCUniversal, bridge-to-investment-banking program, accounting internships, competitions and hackathons 
+- 🏦 Experience: digital analytics at NBCUniversal, bridge-to-investment-banking program, accounting and marketing internships, branding and consulting for non-profit organizations and social enterprises, competitions and hackathons 
 - 🎯 Goals: contribute to management decisions, deepen sector expertise, and keep sharpening technical skills
 
 ### 🔗 Connect with me
@@ -22,9 +22,9 @@ Early‑career data and finance professional pivoting into investment banking, w
 ### 📂 Latest repositories
 
 <!-- Manually list for now; later this can be automated via a script + GitHub Actions -->
-- [repo-1-name](https://github.com/YOUR-USER/repo-1-name) – Short one-line description.
-- [repo-2-name](https://github.com/YOUR-USER/repo-2-name) – Short one-line description.
-- [repo-3-name](https://github.com/YOUR-USER/repo-3-name) – Short one-line description.
+- [intro-to-python-assignment](https://github.com/oceannay/intro-to-python-assignment) – Assignment for Python module showcasing skills and extension to an applied machine learning problem in psychology/neuroscience with focus on clear code, reproducible analysis and interpretable results. 
+- [spotify-music-data-analysis](https://github.com/oceannay/spotify-music-data-analysis) – Short one-line description.
+- [covid-and-cognition](https://github.com/covid-and-cognition/covid-and-cognition) – Assignment for an R module applying regression modelling and statistical testing to evaluate how COVID‑19 relates to patients’ cognitive performance.
 ### 🧰 Languages and tools
 
 <p align="left">

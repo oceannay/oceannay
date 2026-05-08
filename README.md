@@ -4,7 +4,7 @@
 Early‑career data and finance professional pivoting into investment banking, with a background in psychology (current student at King's College London), accounting, analytics, and data analysis. 
 <br> Currently focused on financial modeling and data‑driven decision making in support of a long‑term career in finance. From 🇭🇰 Hong Kong and 🇹🇼 Taipei, based in 🇬🇧 London, United Kingdom. </p>
 
-- 🔭 Currently working on: a Rotten Tomatoes Analysis Project with Python
+- 🔭 Currently working on: a Rotten Tomatoes Sentiment Analysis Project with Python
 - 📊 Interests: business and consumer insights, investment banking, markets, consumer products & services, workplace tech, psychology & neuroscience
 - 🧮 Skills: Excel modelling, Power BI / Tableau, basic SQL / Python (pandas), financial statement analysis
 - 🏦 Experience: digital analytics at NBCUniversal, bridge-to-investment-banking program, accounting and marketing internships, branding and consulting for non-profit organizations and social enterprises, competitions and hackathons 
@@ -23,7 +23,7 @@ Early‑career data and finance professional pivoting into investment banking, w
 
 <!-- Manually list for now; later this can be automated via a script + GitHub Actions -->
 - [intro-to-python-assignment](https://github.com/oceannay/intro-to-python-assignment) – Assignment for Python module showcasing skills and extension to an applied machine learning problem in psychology/neuroscience with focus on clear code, reproducible analysis and interpretable results. 
-- [spotify-music-data-analysis](https://github.com/oceannay/spotify-music-data-analysis) – Short one-line description.
+- [spotify-music-data-analysis](https://github.com/oceannay/spotify-music-data-analysis) – How is a hit song made? Analyzed spotify song genres and streams to figure out what makes a most-streamed song. 
 - [covid-and-cognition](https://github.com/covid-and-cognition/covid-and-cognition) – Assignment for an R module applying regression modelling and statistical testing to evaluate how COVID‑19 relates to patients’ cognitive performance.
 ### 🧰 Languages and tools
 

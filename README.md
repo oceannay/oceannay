@@ -5,7 +5,7 @@ Early‑career data and finance professional pivoting into investment banking, w
 <br> Currently focused on financial modeling and data‑driven decision making in support of a long‑term career in finance. From 🇭🇰 Hong Kong and 🇹🇼 Taipei, based in 🇬🇧 London, United Kingdom. </p>
 
 - 🔭 Currently working on: a Rotten Tomatoes Sentiment Analysis Project with Python
-- 📊 Interests: business and consumer insights, investment banking, markets, consumer products & services, workplace tech, psychology & neuroscience
+- 📊 Interests: business and consumer behavioural insights, markets, consumer products & services, workplace tech, psychology & neuroscience and traveling
 - 🧮 Skills: Excel modelling, Power BI / Tableau, basic SQL / Python (pandas), financial statement analysis
 - 🏦 Experience: digital analytics at NBCUniversal, bridge-to-investment-banking program, accounting and marketing internships, branding and consulting for non-profit organizations and social enterprises, competitions and hackathons 
 - 🎯 Goals: contribute to management decisions, deepen sector expertise, and keep sharpening technical skills

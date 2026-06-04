@@ -25,6 +25,7 @@ Early‑career data and finance professional pivoting into investment banking, w
 - [intro-to-python-assignment](https://github.com/oceannay/intro-to-python-assignment) – Assignment for Python module showcasing skills and extension to an applied machine learning problem in psychology/neuroscience with focus on clear code, reproducible analysis and interpretable results. 
 - [spotify-music-data-analysis](https://github.com/oceannay/spotify-music-data-analysis) – How is a hit song made? Analyzed spotify song genres and streams to figure out what makes a most-streamed song. 
 - [covid-and-cognition](https://github.com/covid-and-cognition/covid-and-cognition) – Assignment for an R module applying regression modelling and statistical testing to evaluate how COVID‑19 relates to patients’ cognitive performance.
+- [rottentomatoesanalysis] (https://github.com/oceannay/rottentomatoesanalysis) - A project I started in my industrial placement and this a sample reproduction for portfolio purposes. 
 ### 🧰 Languages and tools
 
 <p align="left">
